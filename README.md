@@ -83,7 +83,7 @@ python FeatureSelection.py
 
 
 Roshan Jadhao
-Email: roshanjadhao@example.com
+Email: roshanjadhao267@gmail.com
 
 LinkedIn: https://linkedin.com/in/roshanjadhao
 GitHub
